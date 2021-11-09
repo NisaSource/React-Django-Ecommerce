@@ -1,0 +1,81 @@
+products = [
+  {
+    '_id': '1',
+    'name': 'Rose Eternelle Rouge Sous Cloche',
+    'image': '/images/rose_red.jpeg',
+    'description':
+      'La rose sous cloche rouge est une fleur remarquable par ses proprietes',
+    'brand': 'Rose Eternelle',
+    'category': 'Single Rose',
+    'price': 44.90,
+    'countInStock': 10,
+    'rating': 5,
+    'numReviews': 3,
+  },
+  {
+    '_id': '2',
+    'name': 'Rose Eternelle Rose Sous Cloche',
+    'image': '/images/rose_pink.jpeg',
+    'description':
+      'Elle conserve I apparence et la beaute de son etat naturelle pour une duree de 3 ans minimum.',
+    'brand': 'Rose Eternelle',
+    'category': 'Single Rose',
+    'price': 44.90,
+    'countInStock': 7,
+    'rating': 5,
+    'numReviews': 8,
+  },
+  {
+    '_id': '3',
+    'name': 'Rose Eternelle Blanche Sous Cloche',
+    'image': '/images/rose_white.jpeg',
+    'description':
+      'Sa cloche en verre fait d elle une ouvre d art.',
+    'brand': 'Rose Eternelle',
+    'category': 'Single Rose',
+    'price': 44.90,
+    'countInStock': 0,
+    'rating': 3.5,
+    'numReviews': 4,
+  },
+  {
+    '_id': '4',
+    'name': 'Ours En Rose Roge Avec Coeur (40cm)',
+    'image': '/images/bucket_teddy_love.jpeg',
+    'description':
+      'Cet ours en rose rouge avec son coeur st une idee  cadeau merveilleuse.',
+    'brand': 'Nounours En Rose',
+    'category': 'Bucket',
+    'price': 59.90,
+    'countInStock': 11,
+    'rating': 4.5,
+    'numReviews': 9,
+  },
+  {
+    '_id': '5',
+    'name': 'Coeur En Rose Rouge',
+    'image': '/images/bucket_love.jpeg',
+    'description':
+      'Offrez ce magnifique coeur en rose rouge et prouvez un amour fort et passionnel a votre destinataire',
+    'brand': 'Nounours En Rose',
+    'category': 'Bucket',
+    'price': 44,
+    'countInStock': 7,
+    'rating': 4.5,
+    'numReviews': 10,
+  },
+  {
+    '_id': '6',
+    'name': 'Ourson En Rose Eternelle Rouge (25cm)',
+    'image': '/images/bucket_teddy2.jpeg',
+    'description':
+      'Cet ourson en rose rouge est une idee de cadeau romantique',
+    'brand': 'Nounours En Rose',
+    'category': 'Bucket',
+    'price': 29.90,
+    'countInStock': 2,
+    'rating': 3,
+    'numReviews': 11,
+  },
+]
+
